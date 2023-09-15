@@ -1,7 +1,4 @@
 {
-
-  "homepage": "https://j-princess.github.io/Stage2_Task/",
-
   "name": "movie-app",
 
   "version": "0.1.0",
@@ -35,11 +32,6 @@
   },
 
   "scripts": {
-
-    "predeploy": "npm run build",
-
-    "deploy": "gh-pages -d build",
-
     "start": "react-scripts start",
 
     "build": "react-scripts build",
@@ -83,12 +75,6 @@
       "last 1 safari version"
 
     ]
-
-  },
-
-  "devDependencies": {
-
-    "gh-pages": "^6.0.0"
 
   }
 
